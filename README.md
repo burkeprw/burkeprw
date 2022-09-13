@@ -6,6 +6,5 @@ I’m interested in:
 3. Biodiversity
 4. Python & R
 
-You can reach me at <prburke2@illinois.edu>
-
+You can reach me at <prburke2@illinois.edu>  
 Or <pburke@essa.com>
