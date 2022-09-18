@@ -8,3 +8,7 @@ I’m interested in:
 
 You can reach me at <prburke2@illinois.edu>  
 Or <pburke@essa.com>
+
+## README Info
+This is a temporary file for learning to work with Git through terminal.  
+I am using VSC.
